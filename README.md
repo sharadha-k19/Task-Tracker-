@@ -143,16 +143,6 @@ Example:
 
 ---
 
-## 🌐 Web Version (Flask)
-
-This project also includes a simple web interface built using Flask.
-
-### Run the Web App
-```bash
-pip3 install flask
-python3 app.py
-
-
 ## 👩‍💻 Author
 
 🙋‍♀️ Author Sharadha Kattalingannagari 📧 sharadhakattalingannagari@gmail.com 🔗 LinkedIn : https://www.linkedin.com/in/sharadha-kattalingannagari-992a4730a
@@ -167,4 +157,17 @@ This project is open-source and free to use for learning purposes.
 
 ## 🔗 Project Repository
 https://github.com/sharadha-k19/Task-Tracker-CLI
+
+
+
+
+
+## 🌐 Web Version (Flask)
+
+This project also includes a simple web interface built using Flask.
+
+### Run the Web App
+```bash
+pip3 install flask
+python3 app.py
 
